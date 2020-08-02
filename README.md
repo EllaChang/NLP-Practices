@@ -1,5 +1,5 @@
 # About this Repository
-Most projects listed in this repository were completed for the [Udacity Natural Language Processing Nanodegree Program](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892). Named Entity Recognition is an individual project done outside of the Udacity program.
+Most projects listed in this repository were completed for the [Udacity Natural Language Processing Nanodegree Program](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892). Check out my graduation certificate [here](https://confirm.udacity.com/KDJDPY2X). Named Entity Recognition is an individual project done outside of the Udacity program.
 ## Bayesian Spam Classifier
 This classifier uses the Naive Bayes algorithm to classify SMS messages as spam or not spam.
 ## LDA Topic Modeling
